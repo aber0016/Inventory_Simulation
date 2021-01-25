@@ -1,5 +1,8 @@
 '''
-FIT9136 assignment 1 - TASK 2 - Armin Herman Dieter Berger - aber0016
+Inventory_simulation_task2
+
+Author: Armin Berger
+
 This program is an inventory management system for a company selling cantilever umbrellas.
 It will provide the user with the stock count and revenue at the end of an n year cycle given a certain input date.
 
@@ -19,11 +22,8 @@ adjust variables over time.
 
 The program overall has x functions of which each is annotate in accordance to their purpose and function.
 
-The following set of additional assumptions were made in accordance with the feedback of diffrnet tutors and were
-required to guide the development of this program.
-1.
-2.
-When defectives are sold at the start of each month they are deducted from inventory like any other normal sales
+The following set of additional assumptions were made:
+- When defectives are sold at the start of each month they are deducted from inventory like any other normal sales
 
 '''''
 
